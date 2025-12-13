@@ -1,17 +1,25 @@
 [
-  {
-    "name": "Project Title Placeholder",
-    "description": "This is a placeholder for a future project. It will showcase skills in frontend development, APIs, and UI/UX design.",
-    "link": "https://github.com/"
-  },
-  {
-    "name": "Coming Soon: Backend Project",
-    "description": "A backend-focused project currently in development. This will demonstrate server-side logic, database integration, and REST API design.",
-    "link": "https://github.com/"
-  },
-  {
-    "name": "Mobile App Placeholder",
-    "description": "This card represents a future mobile project using React Native. It will focus on building responsive interfaces and working with real-time data.",
-    "link": "https://github.com/"
-  }
+    {
+        "name": "Music Review Web App",
+        "description": "Full-stack CRUD application with persistent data storage using MySQL and Express.js. Features normalized database schema, optimized SQL queries (40% faster), RESTful API endpoints with input validation, and server-side rendering.",
+        "link": "https://github.com/yourusername/music-review-app",
+        "liveLink": "",
+        "image": "",
+        "techStack": ["Express.js", "Node.js", "MySQL", "REST API", "HTML/CSS"]
+    },
+    {
+        "name": "Makeup Expiration Tracker",
+        "description": "Web application for tracking makeup product expiration dates to promote safe cosmetic use. Features include adding/editing/deleting products, automatic expiration alerts, search and filter functionality, and persistent storage. Built with React and implements CRUD operations with responsive design.",
+        "link": "https://github.com/yourusername/makeup-tracker",
+        "liveLink": "",
+        "image": "",
+        "techStack": ["React", "JavaScript", "CSS", "Local Storage", "CRUD"]
+    },
+    {
+        "name": "Portfolio Website",
+        "description": "Personal portfolio website built with React to showcase my projects, skills, and experience. Features responsive design, smooth scrolling navigation, and modern UI/UX.",
+        "link": "https://github.com/aboakye1994/portfolio",
+        "image": "",
+        "techStack": ["React", "JavaScript", "CSS", "HTML"]
+    }
 ]
