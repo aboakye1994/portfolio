@@ -1,5 +1,4 @@
 import IMG from '../assets/headshot.jpg';
-import { SiColorhunt } from 'react-icons/si';
 import { FaUsers } from 'react-icons/fa';
 
 const About = () => {

@@ -15,7 +15,6 @@ import {
     SiPostman,
     SiJenkins
 } from "react-icons/si";
-import { DiMongodb } from "react-icons/di";
 
 const Skills = () => {
     const skillsArr = [
